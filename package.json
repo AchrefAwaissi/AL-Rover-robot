@@ -1,0 +1,17 @@
+{
+	"name": "rover",
+	"version": "1.0.0",
+	"description": "rover in typescript",
+	"keywords": [
+		"robot"
+	],
+	"author": "Achref Awaissi",
+	"license": "ISC",
+
+	"devDependencies": {
+		"typescript": "^4.9.5"
+	},
+	"dependencies": {
+		"prettier": "^2.8.4"
+	}
+}
